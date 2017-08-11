@@ -1,0 +1,2 @@
+# vim
+vimrc for recording
